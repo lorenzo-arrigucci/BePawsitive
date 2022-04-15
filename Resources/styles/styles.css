@@ -121,12 +121,12 @@ a:hover {
     display: flex;
     flex-direction: column;
     max-width: 50%;
-    margin-left: 3rem;
 }
 
 .cat-img {
     width: 30rem;
     height: auto;    
+    margin-right: 3rem;   
 }
 
 /*        -----------------         STAFF SECTION         -----------------        */
